@@ -12,6 +12,7 @@ You may find requirements in `requirements.txt` which can be installed using `pi
 1. Python
     
     python should be installed in your computer. here is the official website: http://www.python.org
+    Not Compatible with Python 3.
 
 2. BeautifulSoup
     
